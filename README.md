@@ -1,8 +1,8 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiLickSunanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LickSun/LickSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LickSun=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
