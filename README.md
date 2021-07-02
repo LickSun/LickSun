@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Denis, and I am a student of Moscow State University of Civil Engineering and student of programming School 21 (Ecole 42).
+My name is Denis, and I am a student of Moscow State University of Civil Engineering and a student of programming School 21 (Ecole 42).
 ## Github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonovrik&show_icons=true&theme=radical)
