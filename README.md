@@ -1,6 +1,5 @@
 ### Hi there 👋
-Hey, I am Denis and
-Go/C++ Backend developer
+Hey my name is Denis, but you might be wondering what I am Go/C++ Backend developer
 ## Github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonovrik&show_icons=true&theme=radical)
